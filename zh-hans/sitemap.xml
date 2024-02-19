@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/authors/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/tags/test/</loc>
+  </url><url>
+    <loc>/blog/1/01/test/</loc>
+  </url><url>
+    <loc>/blog/</loc>
+  </url>
+</urlset>
