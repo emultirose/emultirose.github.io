@@ -9,6 +9,13 @@
     <copyright>Copyright © 2022-{year}</copyright>
     <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>EmultiRose</title>
+      <link>/authors/emultirose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/emultirose/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ErrorEutopia</title>
       <link>/authors/erroreutopia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
