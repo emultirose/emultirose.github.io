@@ -12,10 +12,6 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/series/chat/</loc>
-  </url><url>
-    <loc>/chat/chat/chat/</loc>
-  </url><url>
     <loc>/authors/emultirose/</loc>
   </url><url>
     <loc>/authors/erroreutopia/</loc>
@@ -44,11 +40,11 @@
   </url><url>
     <loc>/blog/</loc>
   </url><url>
-    <loc>/chat/</loc>
+    <loc>/docs/</loc>
   </url><url>
     <loc>/about/</loc>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>/text/</loc>
   </url><url>
     <loc>/music/</loc>
   </url>
