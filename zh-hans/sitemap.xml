@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/docs/pou/gado/</loc>
+  </url><url>
     <loc>/tags/about/</loc>
   </url><url>
     <loc>/series/about/</loc>
@@ -11,6 +13,8 @@
     <loc>/authors/</loc>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/series/chat/</loc>
   </url><url>
     <loc>/chat/chat/chat/</loc>
   </url><url>
@@ -45,6 +49,8 @@
     <loc>/chat/</loc>
   </url><url>
     <loc>/about/</loc>
+  </url><url>
+    <loc>/docs/</loc>
   </url><url>
     <loc>/music/</loc>
   </url>
