@@ -8,12 +8,5 @@
     <language>zh-hans</language>
     <copyright>Copyright © 2024-{year}</copyright>
     <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>/docs/pou/gado/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/pou/gado/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
