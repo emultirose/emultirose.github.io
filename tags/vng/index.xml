@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ErrorEutopia on 埃莫里罗斯资源博客</title>
-    <link>/authors/erroreutopia/</link>
-    <description>Recent content in ErrorEutopia on 埃莫里罗斯资源博客</description>
+    <title>VNG on 埃莫里罗斯资源博客</title>
+    <link>/tags/vng/</link>
+    <description>Recent content in VNG on 埃莫里罗斯资源博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2024-{year}</copyright>
-    <atom:link href="/authors/erroreutopia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>关于</title>
-      <link>/about/jk/jk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/jk/jk/</guid>
-      <description> 本站为博客型资源站,主要以博客为主,资源为个人备用 资源来自于网络,仅供学习 请遵守当地法律法规,如有不恰当行为,本博客不承担任何责任 如果有好玩的游戏但找不到资源请用非qq邮箱发至emultirose@hotmail.com,请不要废话,直接说游戏名称!否则直接无视! 因为没有免登录可下载且个别国家可访问的云端储存暂且不接受大于等于10GB的游戏(有好用的盘请po我!QwQ) 叫我埃莫里罗斯就好,名字来自于&amp;quot;Multiflora Rose&amp;quot; 咕咕咕,咕咕咕,咕咕咕咕咕咕 本博客是开源的,基于MIT协议,所以&amp;hellip;点个Star? 本博客是由Hugo + HB Framework主题制作的,别问为什么那么简陋,问就是没钱! 嗨起来!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </description>
-    </item>
-    <item>
-      <title>猫猫迷宫记</title>
-      <link>/game/gl/niao2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/game/gl/niao2/</guid>
-      <description> 玩法类似世界树迷宫,画风优质(瑟瑟),值得一游 官方简介： 冒险者猫猫在某处古代遗迹中发现了巨大的宝箱。 然而却被从宝箱里出现的少女带进了异空间之中。 为了逃出生天，猫猫开始了别开生面的冒险。&#xA;英文名：Maumau and the Labyrinth 日文名：マウマウ迷宮記～禁忌の魔族法典～ 游戏特色：&#xA;卡牌式战斗： 指令化战斗模式，玩家可选择各色技能的组合来战斗， 并配有辅助卡牌增加战斗效果与变数。 所有敌人以及部分NPC会以辅助卡形式辅佐战斗。&#xA;技能强化系统： 通过战斗获得点数，点数可用来选择各系技能并加强技能效果。&#xA;3D地下城： 本作为3D地下城RPG，各种宝物沉睡其中，并潜伏有强敌。&#xA;任务系统： 游戏内分主线支线任务，玩家可在完成任务的同时，推动故事剧情。&#xA;开发商： CelLab 发行商： OTAKU Plan&#xA;猫猫迷宫(中文) - 真红盘 / 自带全开存档 Wine兼容性: 完美运行 </description>
-    </item>
+    <atom:link href="/tags/vng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>小小恋花 -拂过小镇的旋律之风-</title>
       <link>/game/pp/flo/</link>
