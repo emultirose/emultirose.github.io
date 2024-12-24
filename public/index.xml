@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emultirose</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Emultirose</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/post/hello/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/post/hello/</guid>
+      <description>&lt;p&gt;💘 博麗 霊夢 💘&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>友情链接</title>
+      <link>http://localhost:1313/friend/</link>
+      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
+      <guid>http://localhost:1313/friend/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
